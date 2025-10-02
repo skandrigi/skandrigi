@@ -27,4 +27,4 @@
 
 ---
 
-📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sandeepkandrigi/)** | **skandrigi@tamu.edu**
+📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/skandrigi/)** | **skandrigi@tamu.edu**
