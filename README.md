@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Sandeep
 
 🎓 Computer Science @ Texas A&M University  
-⚡ Technical Director @ [TAMUhack](https://tamuhack.com)  
 💻 Previous SWE Intern @ IBM  
+⚡ Technical Director @ [TAMUhack](https://tamuhack.com)  
 
 ---
 
