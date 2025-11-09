@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - I love building full-stack applications that blend **scalability** with **usability**.  
-- At TAMUhack, I help lead technical initiatives for one of the largest hackathons in Texas, including scaling our registration system **Ouroboros** (30+ ⭐ on GitHub).  
+- At TAMUhack, I help lead technical initiatives for one of the largest hackathons in Texas
 - At IBM, I contributed to backend systems engineering, focusing on building reliable and performant infrastructure.  
 
 ---
