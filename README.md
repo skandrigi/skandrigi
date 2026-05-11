@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack  
 - **Languages:** Python, Go, C++, Java, JavaScript/TypeScript
-- **Frameworks/Tools:** Node.js, React, Next.js, Flask, Django, LangChain 
+- **Frameworks/Tools:** Node.js, React, Next.js, Flask, Django, LangChain, Spring Boot
 - **Databases:** PostgreSQL, Firebase, MongoDB, Redis
 - **Cloud/Infra:** AWS, Docker, Kubernetes, CI/CD  
 
@@ -23,7 +23,7 @@
 
 ### 🌍 Beyond Code  
 - Hackathon enthusiast (🏆 2x Winner | 5+ hackathons pitched).  
-- Passionate about AI, backend development, and building tools that people actually use.  
+- Passionate about Agentic AI, distributed systens, backend development, and building tools that people actually use.  
 
 ---
 
