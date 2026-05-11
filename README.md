@@ -1,7 +1,7 @@
 ## Hi there 👋🏽 I'm Sandeep
 
 🎓 Computer Science @ Texas A&M University  
-💻 SWE Intern @ Capital One, Prev. @ IBM \\
+💻 SWE Intern @ Capital One, Prev. @ IBM  
 ⚡ Technical Director @ [TAMUhack](https://tamuhack.com)  
 
 ---
