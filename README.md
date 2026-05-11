@@ -2,7 +2,6 @@
 
 🎓 Computer Science @ Texas A&M University  
 💻 SWE Intern @ Capital One, Prev. @ IBM 
-
 ⚡ Technical Director @ [TAMUhack](https://tamuhack.com)  
 
 ---
