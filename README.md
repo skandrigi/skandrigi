@@ -16,8 +16,8 @@
 ### 🛠️ Tech Stack  
 - **Languages:** Python, Go, C++, Java, JavaScript/TypeScript
 - **Frameworks/Tools:** Node.js, React, Next.js, Flask, Django, LangChain, Spring Boot
-- **Databases:** PostgreSQL, Firebase, MongoDB, Redis
-- **Cloud/Infra:** AWS, Docker, Kubernetes, CI/CD  
+- **Databases:** PostgreSQL, CockroachDB, Firebase, MongoDB, Redis
+- **Cloud/Infra:** AWS, Docker, Kubernetes, Jenkins, Gitlab, CI/CD  
 
 ---
 
